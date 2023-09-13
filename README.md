@@ -13,9 +13,9 @@ niet de noodzakelijkheid van grenzen of geweld, niet die van geld of groei,
 en niet die van economie of efficiëntie.
 </q>
 
-<emph>
+<em>
 BIJ1 is een politieke partij uit noodzaak.
-</emph>
+</em>
 Want doorgaan op de huidige weg is geen optie.
 De aarde wordt uitgeput, mensen worden verdeeld,
 het verschil tussen rijk en arm groeit,
@@ -34,7 +34,7 @@ BIJ1 bedrijft geen politiek om procentjes koopkracht te sprokkelen,
 om bestaande instituties een stukje efficiënter te maken,
 of om te scoren in de media door vliegen af te vangen bij andere politieke partijen.
 Het gaat ons niet om het verbeteren van het bestaande,
-<emph>maar om het verbeelden van het mogelijke.</emph>
+<em>maar om het verbeelden van het mogelijke.</em>
 
 Dat BIJ1 politiek bedrijft uit noodzaak betekent dat we
 geen enkele vermeende politieke noodzakelijkheid accepteren:
@@ -61,7 +61,7 @@ Er zijn alternatieven.
 Wij belichamen die, en we werken met zo veel mogelijk mensen en organisaties die,
 elk op hun eigen manier,
 strijden voor radicale gelijkwaardigheid en economische rechtvaardigheid.
-BIJ1 is een platform voor <emph>het experimenteren met meer liefdevolle manieren om te leven.</emph>
+BIJ1 is een platform voor <em>het experimenteren met meer liefdevolle manieren om te leven.</em>
 Een motor voor verbinding in het licht van de manieren waarop wij verdeeld worden.
 
 ### Racisme
@@ -113,7 +113,7 @@ Kolonialisme verdeelt ons.
 Het blijft verschillen in levenskansen reproduceren
 die gebaseerd zijn op Westerse verovering.
 BIJ1 bedrijft politiek vanuit de erkenning
-dat Nederland de facto een <emph>koloniale staat</emph> is.
+dat Nederland de facto een <em>koloniale staat</em> is.
 De ongelijkheden die kolonialisme mogelijk maakten,
 zijn niet ontmanteld na de formele onafhankelijkheid van de voormalige koloniën,
 maar zijn nog steeds in volle glorie aanwezig.
@@ -137,11 +137,11 @@ Daardoor worden we nog sterker tegen elkaar opgezet,
 omdat velen er vooralsnog voor kiezen te houden wat ze denken te hebben,
 en dus hun lot verbinden aan het voortbestaan van catastrofes op aarde.
 
-<emph>
+<em>
 Alles wat ons verdeelt is aan ons opgelegd.
 Alles wat ons verbindt heeft een nieuwe politiek nodig
 om het samenleven vrij te kunnen vormgeven,
-</emph>
+</em>
 vrij van de verdeel- en heersstrategieën die aan ons opgelegd worden
 in het raciaal en patriarchaal kapitalisme.
 
@@ -166,9 +166,9 @@ dat staatsmacht op autoritaire manieren aanwendt
 om zichzelf in stand te houden
 ten koste van een waardig leven voor alle anderen.
 Wij strijden tégen hiërarchie, en ook
-<emph>
+<em>
 een hiërarchie in onze prioriteiten heeft geen functie binnen BIJ1.
-</emph>
+</em>
 Daarbij vinden we een vraag als:
 "wie wordt er méér onderdrukt: homo's of zwarte mensen?"
 principieel misleidend en verkeerd.
@@ -193,7 +193,7 @@ Alleen wanneer we open en specifiek zijn over de manieren waarop we verdeeld wor
 kunnen we werken aan een wereld waarin we verbonden zijn.
 
 Dat klasse, ras, gender en gezondheid voor BIJ1 samenhangen,
-is omdat <emph>leven verwevenheid</emph> is.
+is omdat <em>leven verwevenheid</em> is.
 De bestaande orde is gericht op vernietiging van die verwevenheid,
 maar wij denken – en we weten uit ervaring –
 dat de kracht van verbinding groter is dan de macht van de verdeling.
@@ -223,7 +223,7 @@ leidt immers tot een wereld waarin mensen bestuurd worden via hun verdeling door
 gezondheid, geld en macht, een wereld waarin samenleven vooral concurreren is.
 
 De crux van de verbindingen waar BIJ1 aan wil bouwen,
-ligt in <emph>onze intersectionele en dekoloniale benadering van politiek.</emph>
+ligt in <em>onze intersectionele en dekoloniale benadering van politiek.</em>
 
 ## Radicale gelijkwaardigheid en intersectionaliteit
 
@@ -252,7 +252,7 @@ Ongelijkheid, naar allerlei verschillende maatstaven gemeten,
 zit diep verankerd in onze samenleving
 en BIJ1 bestaat om daar verandering in te brengen.
 
-<emph>Meervoudigheid is de mantra van BIJ1:</emph>
+<em>Meervoudigheid is de mantra van BIJ1:</em>
 bij alles waar we als partij een standpunt over innemen,
 waar we de straat voor opgaan,
 waarvoor wij midden in de nacht wakker gemaakt kunnen worden,
@@ -292,12 +292,12 @@ we behandelen iederéén gelijkwaardig.
 Dit stelt ons in staat te zien hoe verschillende vormen van bevoorrecht zijn aan de ene kant,
 en van achtergesteld zijn aan de andere, met elkaar verbonden zijn.
 
-<emph>
+<em>
 Intersectionaliteit is een manier van denken en doen die voor ons allen,
 in al onze diversiteit,
 een radicaal gelijkwaardig en rechtvaardig leven mogelijk maakt
 en géén van ons automatisch op voorsprong of achterstand zet.
-</emph>
+</em>
 BIJ1 begrijpt dat ons sociale en politieke leven, onze instituties en wij zelf,
 gevormd en bepaald worden door
 enkele belangrijke maatschappelijke 'grammatica's van verschil'.
@@ -357,7 +357,7 @@ en LGBTQIA+'s, die buiten dit patroon vielen en zich daarnaar niet wilden of kon
 
 Inmiddels zijn in de Nederlandse samenleving vrouwen meer buitenshuis gaan werken,
 maar ze besteden nog steeds drie keer zoveel tijd aan onbetaalde zorg dan mannen.
-<emph>Het kapitalisme, dat afhankelijk is van verse arbeidskracht,</emph>
+<em>Het kapitalisme, dat afhankelijk is van verse arbeidskracht,</em>
 profiteert dus van de onbetaalde arbeid van vrouwen.
 Vrouwen die betaald werk en zorg moeten combineren
 kunnen dat alleen wanneer ze voldoende verdienen om een deel van de zorg
@@ -366,7 +366,7 @@ Alleenstaande moeders horen dan ook bij de bevolkingsgroep
 met het grootste risico op langdurige armoede.
 En nog steeds kan 30% van de vrouwen niet van eigen inkomsten leven.
 
-<emph>De dwang tot loonarbeid leidt</emph> zo tot verschillende effecten voor mannen en vrouwen,
+<em>De dwang tot loonarbeid leidt</em> zo tot verschillende effecten voor mannen en vrouwen,
 maar ook voor mensen die zich niet voegen naar dat tweewaardige onderscheid.
 Het verminderen van de afhankelijkheid, en het belang,
 van betaald werk – wij leven niet om te werken –
@@ -463,7 +463,7 @@ nu eenmaal het 'gerechtvaardigde loon' is van degenen die in de prijzen
 vallen en dus ook de 'eigen schuld' van degenen die ze mislopen.
 
 Een intersectionele politiek legt met andere woorden bloot
-hoe de <emph>macht</emph> in Nederland en ook daarbuiten <emph>verdeeld</emph> is.
+hoe de <em>macht</em> in Nederland en ook daarbuiten <em>verdeeld</em> is.
 Die ongelijke verdeling van macht wordt gespiegeld in de bestaande politieke verhoudingen.
 We hoeven maar te kijken naar de samenstelling van de Tweede Kamer qua gender,
 ras en etniciteit, seksualiteit en klasse.
@@ -473,11 +473,11 @@ etnisch profileren en criminaliseren,
 wijst op de diepgaande ongelijkheid die op dagelijkse basis gereproduceerd wordt.
 Intersectionaliteit is een meervoudige, complexe manier van denken en handelen,
 die recht doet aan de complexiteit van de werkelijkheid waarin we leven.
-<emph>
+<em>
 De politiek van BIJ1 is daarom een intersectionele politiek,
 een politiek van verbinding in het licht van de manieren
 waarop wij verdeeld worden door de meervoudige werking van macht.
-</emph>
+</em>
 
 ### Dekolonialiteit
 
@@ -499,11 +499,11 @@ onze instituties en wijzelf in elkaar zitten.
 Het gaat ook om een principiële stellingname om de werking
 van kolonialiteit in onze geschiedenis nu eindelijk onder ogen te zien
 in het licht van de manieren waarop die geschiedenis doorwerkt in het heden.
-<emph>
+<em>
 Er is geen radicaal gelijkwaardige en rechtvaardige samenleving mogelijk zonder dekolonialiteit.
-</emph>
+</em>
 
-Een belangrijk motto van het dekoloniale denken is <emph>'moderniteit is kolonialiteit.'</emph>
+Een belangrijk motto van het dekoloniale denken is <em>'moderniteit is kolonialiteit.'</em>
 Dat wil zeggen dat er geen sprake kon zijn van de moderne ontwikkeling
 van de combinatie tussen kapitalisme en liberale democratie zonder kolonialiteit, en andersom.
 De continuïteiten tussen een geschiedenis van een op ras gebaseerd imperium
@@ -598,16 +598,16 @@ We moeten er op alle fronten werk van maken
 om dat culturele archief aan het licht te brengen en te ontmantelen.
 Koloniale wonden moeten geheeld worden en dat doen we niet door te blijven zwijgen.
 
-Maar er is al iets veranderd, en <emph>BIJ1 is onderdeel van die verandering:
-het grote zwijgen</emph> rond het Nederlandse imperiale verleden is <emph>eindelijk en onomkeerbaar</emph> doorbroken.
+Maar er is al iets veranderd, en <em>BIJ1 is onderdeel van die verandering:
+het grote zwijgen</em> rond het Nederlandse imperiale verleden is <em>eindelijk en onomkeerbaar</em> doorbroken.
 Dekolonialiteit betreft meer dan het aan de orde stellen van de doorwerking van de geschiedenis.
-<emph>Het betekent ook het bestrijden van het blijvend onrecht dat de westerse versie van moderniteit</emph>
-– moderniteit als kolonialiteit – <emph>voortbrengt</emph>.
+<em>Het betekent ook het bestrijden van het blijvend onrecht dat de westerse versie van moderniteit</em>
+– moderniteit als kolonialiteit – <em>voortbrengt</em>.
 Daarom steunt BIJ1 bijvoorbeeld de BDS-beweging – Boycot, Desinvesteringen en Sancties –
 in haar strijd tegen de koloniale praktijken van Israël jegens de Palestijnen.
 Dat is ook een antiracistische strijd die langs twee lijnen werkt.
-Het is een strijd <emph>tegen het racisme</emph> waarmee Israël een apartheidsregime heeft opgebouwd.
-En het is een strijd <emph>tegen het antisemitisme</emph> dat de kern vormt
+Het is een strijd <em>tegen het racisme</em> waarmee Israël een apartheidsregime heeft opgebouwd.
+En het is een strijd <em>tegen het antisemitisme</em> dat de kern vormt
 van het vastleggen en essentialiseren van Joden
 op een vermeende duizenden jaren lange geschiedenis
 en een grond die met geweld veroverd moet worden.
@@ -617,16 +617,16 @@ van Palestijns land en Palestijnse levens
 zijn een prisma voor de westerse manier om de wereld vorm te geven
 via verovering door natiestaat en kapitalisme.
 Ook in de dekoloniale strijd wordt daarom duidelijk dat
-<emph>
+<em>
 de manieren waarop mensen verdeeld worden samenhangen.
-</emph>
+</em>
 Geen serieuze feministische strijd als die niet ook dekoloniaal is.
 Geen werkelijk antiracisme zonder solidariteit met de dekoloniale strijd van de Palestijnen.
 Geen echte strijd tegen antisemitisme zonder kritiek op de manieren
 waarop het bestaande beleid van Israël ook Joodse mensen reduceert.
 En geen werkelijke democratie zonder antikapitalisme.
 
-Ook de <emph>hedendaagse imperialistische oorlogen en interventies</emph>
+Ook de <em>hedendaagse imperialistische oorlogen en interventies</em>
 zijn geworteld in de kolonialiteit van het Westen.
 Door middel van militaire interventies en economische blokkades probeert het Westen,
 met de Verenigde Staten als grootmacht,
@@ -659,8 +659,8 @@ waardoor honderdduizenden mensen hun land moeten ontvluchten.
 Ook migratievraagstukken en de technologische infrastructuren van grenzen en grensbewaking
 kunnen daarom niet zonder de blijvende reproductie van koloniale scheidslijnen gezien worden.
 
-Ook zijn er verbanden tussen <emph>kolonialiteit en de manieren
-waarop we met de aarde, dieren, bossen en oceanen omgaan.</emph>
+Ook zijn er verbanden tussen <em>kolonialiteit en de manieren
+waarop we met de aarde, dieren, bossen en oceanen omgaan.</em>
 Het fundamentele model van extractie van waarde uit de aarde
 (het mijnen van grondstoffen voor winstmaximalisatie),
 en van zoveel mogelijk accumulatie,
@@ -690,7 +690,7 @@ Het is dat samenwerken dat nog het meest uitgebuit wordt binnen het kapitalisme,
 en wel zo dat economische productie gelijk staat aan ecologische destructie.
 </q>
 
-We bevinden ons op <emph>een specifiek moment in de cyclus van raciaal kapitalisme.</emph>
+We bevinden ons op <em>een specifiek moment in de cyclus van raciaal kapitalisme.</em>
 Een moment waarop witte mensen in het Westen hun privileges zien afbrokkelen.
 Witte arbeiders hadden een deal met het kapitaal:
 ze mochten meedoen aan het verzamelen van eigendom
@@ -702,7 +702,7 @@ Dankzij die deal konden witte arbeiders het na de Tweede Wereldoorlog relatief b
 maar vooral binnen een patriarchaal kostwinnersmodel en ten koste van arbeiders in (voormalig) gekoloniseerde landen,
 en uiteindelijk ook ten koste van hun eigen uitbuiting,
 zij het dat die iets getemperd was.
-<emph>Men koos voor structureel racisme, seksisme, validisme en nationalisme boven radicale solidariteit.</emph>
+<em>Men koos voor structureel racisme, seksisme, validisme en nationalisme boven radicale solidariteit.</em>
 De naam voor die deal was 'verzorgingsstaat'.
 
 Die deal is opgezegd,
@@ -710,7 +710,7 @@ onder meer omdat kapitalisme ook via schuld medewerking af kan dwingen:
 schuld van landen, van bedrijven, van instituties, en van huishoudens en individuen.
 Maar het relatieve verlies van privileges heeft geleid tot een heropleving van fascistische politiek,
 die eruit bestaat dat de privileges van witte mannen met geweld verdedigd worden.
-Het is <emph>op dit specifieke moment dat BIJ1 ontstaan is.</emph>
+Het is <em>op dit specifieke moment dat BIJ1 ontstaan is.</em>
 Een gevaarlijk moment, waarop fascisme,
 – een racialiserende mobilisatie van arbeiders in de vorm van 'het volk'
 zonder het wijzigen van kapitalistische productieverhoudingen – genormaliseerd is,
@@ -737,14 +737,14 @@ omdat we denken dat er bínnen het huidige systeem niets te redden valt.
 We willen iets radicalers dan redding.
 
 BIJ1 doet niet mee aan de lobby voor een leukere exploitatie.
-<emph>Ons uitgangspunt is dit: alles is altijd al van ons.</emph>
+<em>Ons uitgangspunt is dit: alles is altijd al van ons.</em>
 Alleen het samenwerken van mensen is verantwoordelijk voor economische productie.
 Het is dat samenwerken dat nog het meest uitgebuit wordt binnen het kapitalisme,
 en wel zo dat economische productie gelijk staat aan ecologische destructie.
 Maar dat alles door ons geproduceerd wordt,
 door het samenwerken van mensen die altijd meer voor elkaar overhebben
 dan de neoliberale sjablonen van op zichzelf gerichte individuen kunnen vatten,
-betekent dat het ook aan ons is <emph>om collectief bezit van onze productiemiddelen na te streven.</emph>
+betekent dat het ook aan ons is <em>om collectief bezit van onze productiemiddelen na te streven.</em>
 En dat het ook aan ons is om te breken met het blinde productivisme dat de aarde uitput
 in de irrationele ratrace van de 'economische groei'.
 
@@ -755,7 +755,7 @@ Zolang de economische sfeer,
 die zo veel van ons leven – en van onze dood – bepaalt,
 via autoritair bestuur van CEO's en aandeelhouders georganiseerd wordt,
 is het te vroeg om te zeggen dat we een democratie zijn.
-BIJ1 streeft daarom naar een <emph>economische democratisering.</emph>
+BIJ1 streeft daarom naar een <em>economische democratisering.</em>
 
 Dat wil zeggen dat we onze afhankelijkheden
 van 'economische groei' en van kapitaalmarkten willen verkleinen
@@ -765,9 +765,9 @@ Zeggenschap over productie betekent dat we een gedeeld bezit van productiemiddel
 Maar dat doen we niet om een ditmaal door arbeiders georganiseerd productivisme tot stand te brengen.
 Er wordt meer geproduceerd dan de aarde aankan.
 Controle over productiemiddelen is daarom
-<emph>
+<em>
 een democratische manier om productie te beperken, te herorganiseren en te prioriteren.
-</emph>
+</em>
 
 Dat is waarom het belangrijk is ons niet langer te laten gijzelen
 door de irrationele eis economische groei te bewerkstelligen.
@@ -789,11 +789,11 @@ bij een extreem kleine minderheid van grootkapitalisten.
 
 Die kapitalisten dreigen met kapitaalvlucht zodra hun accumulatie in gevaar komt.
 Om werkelijke stappen naar economische rechtvaardigheid te zetten,
-is het daarom belangrijk <emph>controle te krijgen over de geldproductie,
-dus over banken, munt en rentestanden.</emph>
-Dat is voor BIJ1 een <emph>radicaal democratisch</emph> streven.
+is het daarom belangrijk <em>controle te krijgen over de geldproductie,
+dus over banken, munt en rentestanden.</em>
+Dat is voor BIJ1 een <em>radicaal democratisch</em> streven.
 
-Ook in de <emph>ecologie</emph> is diversiteit en verbinding het devies.
+Ook in de <em>ecologie</em> is diversiteit en verbinding het devies.
 Leven is verweven, en we kunnen het ons niet veroorloven te doen alsof
 voedselproductie, mondiale opwarming, het verdwijnen van biodiversiteit,
 migratie, kapitalistische exploitatie en het vrijkomen van dodelijke virussen
@@ -827,11 +827,11 @@ wanneer we binnen de kapitalistische productiewijze blijven.
 Wanneer we niets doen aan de bestaande overproductie en winstmaximalisatie
 is een daarin gewortelde techno-fix
 niet de weg naar een werkelijk ecologisch rechtvaardig leven.
-<emph>
+<em>
 De enige plausibele politiek tegen mondiale opwarming is antikapitalistisch en dekoloniaal.
-</emph>
+</em>
 
-Klimaatrechtvaardigheid vergt bovendien <emph>herstelbetalingen</emph>
+Klimaatrechtvaardigheid vergt bovendien <em>herstelbetalingen</em>
 aan landen die nauwelijks aan opwarming hebben bijgedragen
 maar er wel de meest desastreuze consequenties van ondervinden.
 
@@ -839,9 +839,9 @@ Het kapitalisme is gebaseerd op een exploitatie van lichamen en een extractie ui
 Het rechtvaardigt de transformatie van de aarde tot plantage
 met een beroep op de individuele verantwoordelijkheid en vrijheid.
 Zulke holle frasen zijn inderdaad rechtvaardigingen van een onrechtvaardige orde.
-<emph>
+<em>
 Dekolonisering betekent voor BIJ1 een radicaal andere omgang met lichamen en met land.
-</emph>
+</em>
 Het betekent een dekolonisering van de landbouw,
 die niet langer een industrie en een verdienmachine moet zijn,
 maar een agro-ecologische en ecosocialistische zorg voor mens, dier, plant, grond en water,
@@ -852,10 +852,10 @@ Ook daarvoor is een radicale democratisering noodzakelijk.
 Debatteren over de vermeende trade-offs tussen economie en ecologie terwijl de aarde in brand staat,
 heeft nog weinig met democratie te maken.
 
-<emph>
+<em>
 Werkelijke democratie betekent dat we ook niet-mensen
 (dieren, planten, bossen, oceanen) een stem geven in onze politiek.
-</emph>
+</em>
 Hiervoor kunnen we leren van de praktijken van eerste bewoners van door Europa gekoloniseerde landen,
 en van de manieren waarop minstens vanaf het begin van de vorige eeuw rechten toegekend zijn aan dieren,
 maar bijvoorbeeld ook aan bossen.
@@ -902,7 +902,7 @@ een wereld waarin land en lichamen niet langer in het model van de plantage (uit
 
 Het overleven is het levende bewijs dat we altijd meer zijn
 dan datgene waartoe we steeds gereduceerd dreigen te worden.
-Dat 'meer' <emph>is de vreugdevolle kern van onze politiek.</emph>
+Dat 'meer' <em>is de vreugdevolle kern van onze politiek.</em>
 
 Er is geen wij zonder verbinding.
 Verbinding tussen mensen, en verbinding tussen de verschillende manieren
@@ -929,16 +929,16 @@ Ook de politiek moet radicaler democratisch gemaakt worden,
 zowel meer lokaal als meer mondiaal.
 Onze levens zijn verweven met de levens van mensen en niet-mensen elders op aarde,
 en onze democratie zou die verwevenheid moeten representeren.
-<emph>De natiestaat is daarom een te beperkende vorm die ons verdeelt.<emph>
+<em>De natiestaat is daarom een te beperkende vorm die ons verdeelt.<em>
 Als we verbinding nastreven,
-is een <emph>lokaal geworteld internationalisme<emph> de logische keuze.
+is een <em>lokaal geworteld internationalisme<em> de logische keuze.
 
 BIJ1 moet omgaan met de paradox dat politiek om macht gaat
 maar een intersectionele politiek tegen de verschillende machtsvormen in werkt.
 Onze politiek is noodzaak, maar macht is het probleem,
 omdat macht ons verdeelt.
 En toch is BIJ1 een politieke partij met grote parlementaire ambities.
-Maar <emph>we waken ervoor een machtspartij te worden.<emph>
+Maar <em>we waken ervoor een machtspartij te worden.<em>
 We zullen blijven vechten tegen elke verleiding om eindelijk eens mee te mogen regeren,
 zolang dat betekent dat we onderdeel van het probleem worden.
 We waken ervoor dat we een bureaucratische partij worden
@@ -966,8 +966,8 @@ maar we zijn niet bereid de staat aan liberalen en fascisten over te laten.
 BIJ1 voert electorale politiek,
 maar gaat niet uit van een electoraat met gegeven meningen.
 Er is, voor links noch voor rechts, een natuurlijk electoraal maximum.
-BIJ1 ziet <emph>politiek</emph> voor wat het is:
-<emph>een praktijk die niet slechts mensen representeert, maar die ze ook mede vormt.</emph>
+BIJ1 ziet <em>politiek</em> voor wat het is:
+<em>een praktijk die niet slechts mensen representeert, maar die ze ook mede vormt.</em>
 Representatieve democratie betekent niet slechts het spiegelen van wat mensen denken en wensen,
 alsof dat iets is dat onafhankelijk van de vorm en inhoud van de representatie ervan bestaat.
 Het betekent ook mensen een spiegel voorhouden,
@@ -975,10 +975,10 @@ en zo het actief vormgeven aan ons samenleven,
 en daarmee ook aan een electoraat.
 
 Politiek bedrijven we bovendien voor een waardig en radicaal democratisch leven
-voor <emph>iedereen op aarde</emph>,
+voor <em>iedereen op aarde</em>,
 niet voor een daarvan kunstmatig onderscheiden Nederlands electoraat.
 
-BIJ1 bedrijft zowel <emph>een grassroots politiek als een parlementaire politiek.</emph>
+BIJ1 bedrijft zowel <em>een grassroots politiek als een parlementaire politiek.</em>
 Ook dat is een cruciale verbinding.
 Onder meer omdat we alleen middels die verbinding niet alleen maar
 participeren in koloniale en kapitalistische instituties,
@@ -989,10 +989,10 @@ maar zonder wortels in de grond geen voeding en geen groei.
 
 BIJ1 is een radicaal democratische partij,
 en dat stelt eisen aan de manier waarop we intern georganiseerd zijn en ons tot elkaar verhouden.
-<emph>
+<em>
 We waken ervoor simpelweg de volgende politieke partij te worden,
 waarin fractiediscipline en autoritair bestuur de politiek bepalen.
-<emph>
+<em>
 Er is en blijft hier veel werk te verrichten.
 Betrokkenheid van leden moet ver voorbij participatie in een Algemene Leden Vergadering gaan.
 De partij moet een platform zijn voor discussie en kennisvorming van leden
@@ -1020,24 +1020,24 @@ Maar wanneer we werkelijk radicaal gelijkwaardig bijeenkomen,
 zal onze wereldvisie zich blijven ontwikkelen.
 
 Een intersectionele, antikapitalistische en dekoloniale politiek is een politiek van verbinding,
-en dus van <emph>coalities.<emph>
+en dus van <em>coalities.<em>
 BIJ1 streeft actief naar het vormen van coalities tussen mensen
 die strijden tegen de verschillende manieren waarop wij verdeeld worden.
 
 Net zo belangrijk als onze wortels in en verbinding met grassroots politiek activisme
-zijn <emph>onze wortels in de bij ons aangesloten jongeren.</emph>
+zijn <em>onze wortels in de bij ons aangesloten jongeren.</em>
 Ze voeden ons en zijn onze toekomst.
 Naar hen wordt geluisterd.
 Altijd.
 BIJ1 zal altijd de jeugdige vreugde van het experiment en de creatieve improvisatie stimuleren.
-<emph>Geen politieke partij zo jeugdig als BIJ1.</emph>
+<em>Geen politieke partij zo jeugdig als BIJ1.</em>
 
-Onze politiek is een <emph>radicale politiek,</emph>
+Onze politiek is een <em>radicale politiek,</em>
 een politiek die het onrecht in de wereld bij de wortel (radix) wil aanpakken,
 en een politiek die geworteld is in de levens van mensen die dat onrecht aan den lijve ondervinden.
 Voor alle deze mensen geldt: 'niets over ons, zonder ons'.
 
-Voor BIJ1 is <emph>politieke educatie</emph> een belangrijke taak.
+Voor BIJ1 is <em>politieke educatie</em> een belangrijke taak.
 De manieren waarop we verdeeld worden zijn niet voor iedereen onmiddellijk duidelijk.
 Er is veel te leren, en er is veel werk te verrichten om
 witte, validistische, transfobe en kapitalistische
@@ -1050,8 +1050,8 @@ Politieke educatie is voor ons geen vorm van het ontmaskeren van mensen omwille 
 We gaan ervan uit dat mensen meer zijn dan hun huidige meningen.
 En we nodigen uit met ons te zoeken en te zien hoe een wereld dichterbij komt waarin we minder verdeeld zijn,
 die minder door geweld jegens mens en aarde geordend wordt,
-en <emph>waarin verschil, onze gedeelde onvolledigheid,
-de basis vormt van ons samenzijn in radicale gelijkwaardigheid.</emph>
+en <em>waarin verschil, onze gedeelde onvolledigheid,
+de basis vormt van ons samenzijn in radicale gelijkwaardigheid.</em>
 
 Politieke educatie betekent ook dat we zelf willen blijven leren,
 en dat we onderzoek doen naar geschiedenis en heden.
@@ -1074,7 +1074,7 @@ BIJ1 is niet gericht op overleven als politieke partij.
 BIJ1 is een politieke partij omdat wij gericht zijn op overleven.
 
 Maar overleven is niet genoeg.
-Het gaat ons om <emph>een waardig leven voor iedereen.</emph>
+Het gaat ons om <em>een waardig leven voor iedereen.</em>
 Een radicaal gelijkwaardig en een economisch rechtvaardig leven.
 
 Want we hebben nog geen goede argumenten gehoord voor waarom mensen die geboren worden,
@@ -1098,7 +1098,7 @@ waarmee wij tot nog toe bestuurd worden.
 De noodzaak waaruit wij politiek bedrijven,
 keert zich tegen al die noodzakelijkheden.
 
-<emph>Het voeren van debatten is dus doel noch voornaamste middel van onze politieke strijd.</emph>
+<em>Het voeren van debatten is dus doel noch voornaamste middel van onze politieke strijd.</em>
 Met debat worden we zoet gehouden terwijl de destructie van land en lichamen voortraast.
 We zijn een parlementaire en gemeentelijke politieke partij,
 maar we zijn er niet om punten te scoren in het politieke debat,
@@ -1128,14 +1128,14 @@ zonder economische exploitatie, zonder planetaire plundering,
 dat is
 niet alleen een vreugdevolle politiek,
 maar ook
-<emph>een politiek van radicale liefde.</emph>
+<em>een politiek van radicale liefde.</em>
 Een politiek die erkent dat we onvolledig zijn zonder elkaar,
 en dat we elkaar dus steeds weer dat aanbod,
 en die uitnodiging, moeten doen:
-<emph>
+<em>
 een radicaal gelijkwaardig en economisch rechtvaardig leven is mogelijk,
 laten we het samen vormgeven.
-</emph>
+</em>
 
 Want alles is altijd al van ons.
 We worden verdeeld zodat we dat vergeten,
@@ -1145,7 +1145,7 @@ maar tevreden zijn met een idee van politiek als het discussiëren van mensen me
 Onze politiek komt hierop neer:
 wij willen een wereld zonder racisme, seksisme, validisme en plundering van de aarde,
 maar met radicale democratie, in politiek, economie en ecologie.
-<emph>
+<em>
 Wij willen een andere wereld, en we zijn niet bereid
 ook maar iemand in de huidige achter te laten.
-</emph>
+</em>
