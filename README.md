@@ -90,7 +90,7 @@ en vooral van al het leven dat zich onttrekt aan de dominante man/vrouw dichotom
 ### Validisme
 
 Validisme verdeelt ons.
-Discriminatie van mensen met een fysieke beperking of van neurodiverse mensen
+Discriminatie van mensen met een fysieke, psychische of verstandelijke beperking of van neurodiverse mensen
 is onderdeel van een machtsvorm die van gezondheid,
 van specifieke lichamen en van bepaalde vormen van leven een norm maakt,
 en die het leven naar die norm gaat vormgeven.
